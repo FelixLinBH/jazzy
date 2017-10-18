@@ -14,6 +14,10 @@
   [Jeremy David Giesbrecht](https://github.com/SDGGiesbrecht)
   [#891](https://github.com/realm/jazzy/issues/891)
 
+* Always display correct declaration for undocumented symbols.  
+  [John Fairhurst](https://github.com/johnfairh)
+  [#864](https://github.com/realm/jazzy/issues/864)
+
 ## 0.8.4
 
 ##### Breaking
